@@ -27,7 +27,7 @@
   "homepage": "https://github.com/lgaticaq/m2m-status-ms#readme",
   "dependencies": {
     "dotenv": "^4.0.0",
-    "express": "^4.14.0",
+    "express": "^4.0.0",
     "express-winston": "^2.1.0",
     "m2m-status": "^1.0.0",
     "raven": "^2.0.0",
