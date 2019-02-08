@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "eslint": "4.19.1",
-    "nodemon": "1.18.9"
+    "nodemon": "1.18.10"
   },
   "eslintConfig": {
     "env": {
