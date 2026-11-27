@@ -5,7 +5,8 @@
   "main": "src",
   "scripts": {
     "start": "node src",
-    "start:dev": "nodemon -- --inspect src"
+    "start:dev": "nodemon -- --inspect src",
+    "test": "node test/controller.js"
   },
   "engines": {
     "node": ">=6.3"
